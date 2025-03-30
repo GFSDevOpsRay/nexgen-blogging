@@ -138,7 +138,7 @@
     "penx-theme-micro": "^0.0.10",
     "penx-theme-minimal": "^0.0.10",
     "penx-theme-photo": "^0.0.10",
-    "prismjs": "^1.29.0",
+    "prismjs": "^1.30.0",
     "react": "^19.0.0",
     "react-datepicker": "^7.5.0",
     "react-day-picker": "^8.10.1",
